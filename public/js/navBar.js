@@ -29,10 +29,10 @@ postForm.addEventListener('submit', async function(event) {
         headers: {
           "Content-Type": "application/json",
         },
-        // This line of code is used to convert the data to a JSON string.
+        // Convert data to a JSON string.
         body: JSON.stringify({ title, text}),
       });
-      // This if/else statement is used to check if the response is ok or not.
+  
       if (response.ok) {
         window.location.href = "/";
       } else {

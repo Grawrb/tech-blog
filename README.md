@@ -18,7 +18,8 @@ To install this application, access the project's root directory and enter ```np
 
 ## Usage
 
-Once all necessary packages are installed, type ```npm run start``` into the CLI. Database interactions can be accomplished through the Insomnia GUI.
+Once all necessary packages are installed, type ```npm run start``` into the CLI to run the application locally. To access the deployed application, click the link below:
+- <a href="https://tech-blog-wpph.onrender.com" alt="Render Application Link">House of Tech Blog</a>
 
 ## Contributions
 
