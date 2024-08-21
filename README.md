@@ -10,7 +10,7 @@
 
 ## Description
 
-This application
+This application is a simple CMS style tech blog. It allows a use to register an account and post their tech related thoughts. It follows a MVC paradigm.
 
 ## Installation
 
